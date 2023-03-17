@@ -1,6 +1,3 @@
-# Import the credentials module
-import credentials
-
 # Import the necessary modules from the telegram package
 import requests
 from telegram import Update
